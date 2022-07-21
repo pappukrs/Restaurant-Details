@@ -1,0 +1,11 @@
+.card-grid{ 
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* grid-template-rows: repeat(3,1fr); */
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    gap:15px;
+
+} 

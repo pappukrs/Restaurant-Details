@@ -1,0 +1,235 @@
+{
+    "restaurant":[
+        {
+        "name":"APNA DHABA",
+        "place":"bhilai",
+        "category":"South indian chinese nepali",
+        "rating":5,
+        "votes":1283,
+        "reviews":2356,
+        "min_prize":500,
+        "cost_for_two":800,
+        "cost_for_three":1238,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"Rohit DHABA",
+        "place":"Raipur",
+        "category":"North indian chinese ",
+        "rating":4.5,
+        "votes":12873,
+        "reviews":23756,
+        "min_prize":510,
+        "cost_for_two":850,
+        "cost_for_three":1268,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"Desi Khana Khazana",
+        "place":"Bhopal",
+        "category":"North indian food chinese",
+        "rating":4,
+        "votes":1283,
+        "reviews":2356,
+        "cost for one":123,
+        "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    },
+    {
+        "name":"Marathi Dhaba",
+        "place":"Pune",
+        "category":"South indian chinese Marathi dishes",
+        "rating":3.5,
+        "votes":183,
+        "reviews":256,
+        "min_prize":400,
+        "cost_for_two":800,
+        "cost_for_three":1238,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"APNA DHABA",
+        "place":"bhilai",
+        "category":"South indian chinese nepali",
+        "rating":4.5,
+        "votes":1283,
+        "reviews":2356,
+        "min_prize":500,
+        "cost_for_two":780,
+        "cost_for_three":1667,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"Bihari Restaurant",
+        "place":"Hyderabad",
+        "category":"South indian chinese nepali",
+        "rating":5,
+        "votes":128,
+        "reviews":235,
+        "min_prize":100,
+        "cost_for_two":200,
+        "cost_for_three":538,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"Nagesh Dhaba",
+        "place":"bhilai",
+        "category":"South indian chinese nepali",
+        "rating":1,
+        "votes":12,
+        "reviews":2,
+        "min_prize":400,
+        "cost_for_two":800,
+        "cost_for_three":1238,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"APNA DHABA",
+        "place":"supaul",
+        "category":"South indian chinese nepali",
+        "rating":2,
+        "votes":1,
+        "reviews":2,
+        "min_prize":500,
+        "cost_for_two":890,
+        "cost_for_three":1238,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"APNA DHABA",
+        "place":"bhilai",
+        "category":"South indian chinese nepali",
+        "rating":2,
+        "votes":12,
+        "reviews":23,
+        "min_prize":200,
+        "cost_for_two":400,
+        "cost_for_three":638,
+        "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"DHABA",
+        "place":"bhilai",
+        "category":"South indian chinese nepali",
+        "rating":3,
+        "votes":128,
+        "reviews":256,
+        "min_prize":200,
+        "cost_for_two":300,
+        "cost_for_three":438,
+        "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"APNA DHABA",
+        "place":"bhilai",
+        "category":"South indian chinese nepali",
+        "rating":3.6,
+        "votes":128,
+        "reviews":23,
+        "min_prize":300,
+        "cost_for_two":800,
+        "cost_for_three":1238,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"APNA DHABA",
+        "place":"bhilai",
+        "category":"South indian chinese nepali",
+        "rating":4.9,
+        "votes":12893,
+        "reviews":23586,
+        "min_prize":500,
+        "cost_for_two":890,
+        "cost_for_three":1238,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    },
+    {
+        "name":"APNA DHABA",
+        "place":"bhilai",
+        "category":"South indian chinese nepali",
+        "rating":5,
+        "votes":1283,
+        "reviews":2356,
+        "min_prize":500,
+        "cost_for_two":800,
+        "cost_for_three":1238,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "url":"https://b.zmtcdn.com/data/pictures/9/19287449/984b21c72fb0467776aba7f5968b8ad8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+
+    }
+]
+}

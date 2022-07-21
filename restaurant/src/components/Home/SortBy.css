@@ -1,0 +1,22 @@
+.sort{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:2%;
+    padding:10px;
+    border:2px solid red;
+
+}
+.sortbystar{
+    display: flex;
+    flex-direction: row;
+    border:2px solid red;
+    gap:3px;
+}
+
+.sortbypayment{
+    padding:5px;
+    border:2px solid red;
+}
